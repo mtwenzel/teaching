@@ -107,3 +107,4 @@ venv.bak/
 data/*
 PPMI-classification.zip
 data_loaders.py
+*.h5
